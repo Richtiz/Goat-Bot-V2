@@ -67,7 +67,7 @@ module.exports = {
 		};
 
 		if (args[1] === "-g")
-			if (role < 2)
+			if (role < 0)
 				return message.reply(getLang("onlyAdmin"));
 			else
 				formSet.setGlobal = true;
