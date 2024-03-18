@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐈𝐓𝐀𝐂𝐇𝐈𓅂",
+  "nickNameBot": "𝐆𝐨𝐣𝐨 𝐗 𝐌𝐚𝐤𝐢𝐦𝐚",
   "prefix": "🪄",
   "database": {
     "type": "sqlite",
