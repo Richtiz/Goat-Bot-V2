@@ -22,7 +22,7 @@ config: {
       facebookLink: 'https://www.facebook.com/profile.php?id=100075373879287',
     };
 
-    const bold = 'https://i.imgur.com/udrWN2X.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://i.imgur.com/9aj3Cjm.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
