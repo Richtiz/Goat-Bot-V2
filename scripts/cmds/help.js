@@ -5,7 +5,7 @@ const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
 const doNotDelete ="「🐐 | GoatBot」";
 /** 
-* @author NTKhang
+* @author Kshitiz
 * @author: do not delete it
 * @message if you delete or edit it you will get a global ban
 */
@@ -14,7 +14,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.0",
-    author: "NTKhang",
+    author: "Kshitiz",
     countDown: 20,
     role: 0,
     shortDescription: {
@@ -39,116 +39,116 @@ module.exports = {
   langs: {
     en: {			help: 
       `╭───⭓『 𝐈𝐓𝐀𝐂𝐇𝐈𓅂 』 
-│🌸kuba 🌸gemini
-│🌸gpt 🌸sdxl 
-│🌸sdxl2 🌸imagine
+│❏kuba ❏gemini
+│❏gpt ❏sdxl 
+│❏sdxl2 ❏imagine
 ╰───────────⭔
 ╭───⭔『 ANIME 』
-│🌸waifu 🌸SAUCE
-│🌸manga 🌸animeinfo
+│❏waifu ❏SAUCE
+│❏manga ❏animeinfo
 ╰───────────⭔
 ╭───⭔『 STUDY 』
-│🌸Dictionary 🌸summarize
-│🌸autoseen 🌸define
+│❏Dictionary ❏summarize
+│❏autoseen ❏define
 ╰───────────⭔
 ╭───⭔『 TOOLS 』
-│🌸caller 🌸pm 🌸clean 
-│🌸autoseen 🌸memstole
-│🌸clear 🌸translate 
-│🌸imgur 🌸weather 
-│🌸profile 🌸removebg
-│🌸v2a 🌸wallapaper
-│🌸time 🌸extract
-│🌸jsontomongodb
-│🌸appstore 🌸teach
-│🌸jsontosqlite🌸pin
+│❏caller ❏pm ❏clean 
+│❏autoseen ❏memstole
+│❏clear ❏translate 
+│❏imgur ❏weather 
+│❏profile ❏removebg
+│❏v2a ❏wallapaper
+│❏time ❏extract
+│❏jsontomongodb
+│❏appstore ❏teach
+│❏jsontosqlite ❏pin
 ╰───────────⭔
 ╭───⭔『 GROUP CHAT』
-│🌸Filteruser 🌸All 
-│🌸kick 🌸uid 🌸info
-│🌸warn 🌸tid 🌸antiout
-│🌸leave 🌸count 🌸rules
-│🌸unsend 🌸badwords
-│🌸antichange 🌸setname
-│🌸adduser 🌸refresh 
-│🌸onlyadminbox 🌸antiout
-│🌸setname 🌸autosetname
-│🌸setleave 🌸setwelcome
-│🌸topexp 🌸groupinfo
-│🌸grouptag 🌸supportgc
+│❏Filteruser ❏All 
+│❏kick ❏uid ❏info
+│❏warn ❏tid ❏antiout
+│❏leave ❏count ❏rules
+│❏unsend ❏bad ❏war
+│❏antichange ❏setname
+│❏adduser ❏refresh 
+│❏onlyadminbox ❏antiout
+│❏setname ❏autosetname
+│❏setleave ❏setwelcome
+│❏topexp ❏groupinfo
+│❏grouptag ❏supportgc
 ╰──────────────⭔
 ╭───⭔『 OWNER 』
-│🌸setrole 🌸admin
-│🌸user 🌸approve 
-│🌸pending 🌸accept
-│🌸file 🌸ban 🌸thread
-│🌸sendnoti 🌸adc 🌸kera
-│🌸getfbstate 🌸join 🌸war
-│🌸leaveall 🌸listbox
-│🌸notice 🌸notification
+│❏setrole ❏admin
+│❏user ❏approve 
+│❏pending ❏accept
+│❏file ❏ban ❏thread
+│❏sendnoti ❏adc ❏kera
+│❏getfbstate ❏join ❏war
+│❏leaveall ❏listbox
+│❏notice ❏notification
 ╰───────────⭔
 ╭───⭔『 IMAGE 』
-│🌸avatar 🌸fb
-│🌸banner
-│🌸pin 🌸trigger
+│❏avatar ❏fb
+│❏banner
+│❏pin ❏trigger
 ╰───────────⭔
 ╭───⭔『 FUN 』
-│🌸emojimix 🌸emoji
-│🌸pet 🌸say 
-│🌸jane 🌸snoop
-│🌸pair 🌸cdp
-│🌸simsimi 🌸randomname
-│🌸fight 🌸slap
-│🌸emojimean 🌸pair
-│🌸calculate 🌸anya2
-│🌸rizz 🌸roast
-│🌸gojo 🌸hack
+│❏emojimix ❏emoji
+│❏pay ❏say 
+│❏jane ❏snoop
+│❏pair ❏cdp
+│❏simsimi ❏randomname
+│❏fight ❏slap
+│❏emojimean ❏pair
+│❏calculate ❏anya2
+│❏rizz ❏roast
+│❏gojo ❏hack
 ╰───────────⭔
 ╭───⭔『 BANK 』
-│🌸Bank 🌸work 
-│🌸balance 🌸daily
+│❏Bank ❏work 
+│❏balance ❏daily
 ╰───────────⭔
 ╭───⭔『 MEDIA 』
-│🌸play 🌸insta 
-│🌸song 🌸videofb
-│🌸ytb 🌸lyrics
-│🌸Movie 🌸youtube
-│🌸shoti 🌸shoti2
-│🌸tiktok 🌸fun
-│🌸aniedit 🌸aniedit2
-│🌸animeme 🌸entertain
+│❏play ❏insta 
+│❏song ❏videofb
+│❏ytb ❏lyrics
+│❏Movie ❏youtube
+│❏shoti ❏shoti2
+│❏tiktok ❏fun
+│❏aniedit ❏aniedit2
+│❏animeme ❏entertain
 ╰───────────⭔
 ╭───⭔『 RANK 』
-│🌸rank 🌸rankup
-│🌸setrankup
-│🌸customrankcard  
+│❏rank ❏rankup
+│❏setrankup
+│❏lcustomrankcard  
 ╰───────────⭔
 ╭───⭔『SYSTEM 』
-│🌸setrole 🌸prefix 
-│🌸setalias 🌸backupdata
-│🌸help 🌸del 🌸eval
-│🌸sorthelp 🌸status
-│🌸ping 🌸cmd 
-│🌸loadconfig 🌸offbot
-│🌸restart 🌸setavt
-│🌸setlang 🌸shell
-│🌸update 🌸event
+│❏setrole ❏prefix 
+│❏setalias ❏backupdata
+│❏help ❏del ❏eval
+│❏sorthelp ❏status
+│❏ping ❏cmd 
+│❏loadconfig ❏offbot
+│❏restart ❏setavt
+│❏setlang ❏shell
+│❏update ❏event
 ╰───────────⭔ 
 ╭───⭔『 GAME 』
-│🌸bal 🌸guessnumb
-│🌸quiz 🌸slot 
-│🌸Sicbo 🌸choose
-│🌸wordgame 🌸rps
-│🌸tod 🌸country
+│❏bal ❏guessnumb
+│❏quiz ❏slot 
+│❏Sicbo ❏choose
+│❏wordgame ❏rps
+│❏tod ❏country
 ╰───────────⭔
-╭───⭔『Enjoy😉 』
+╭───⭔『Enjoy♻️ 』
 │ » Total cmds: [ %4 ].
 │ Type: [%5help to 
 │<cmd> ] to learn
-│ the usage:) 😉
+│ the usage:) 🎏
 ╰───────────⭔
 ╭─────⭔
-│『 𝐊𝐒𝐇𝐈𝐓𝐈𝐙 ‌』
+│『 𝐊𝐒𝐇𝐈𝐓𝐈𝐙 』
 ╰────────:)`,
       help2: "%1◊\n│ » Currently, the bot has %2 commands that can be used\n│ » Total Cmds: %3 \n│ %4\n╰─────────────◊",
       commandNotFound: "Command \"%1\" does not exist",
