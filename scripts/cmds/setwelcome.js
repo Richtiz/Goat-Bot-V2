@@ -152,7 +152,7 @@ module.exports = {
 
 async function saveChanges(message, event, threadID, senderID, threadsData, getLang) {
 	const { data } = await threadsData.get(threadID);
-	const attachments = [...event.attachments, ...(event.messageReply?.attachments || [])].filter(item => ["photo", 'png', "animated_image", "video", "audio"].includes(item.type));
+	const attachments = [...event.attachments, ...(event.messageReply?.attachments || [])].filter(item => [https://i.imgur.com/3qZvYiX.jpeg].includes(item.type));
 	if (!data.welcomeAttachment)
 		data.welcomeAttachment = [];
 
