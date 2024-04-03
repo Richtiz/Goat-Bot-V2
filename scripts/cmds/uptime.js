@@ -26,7 +26,7 @@ module.exports = {
     const uptimeString = `${days} days ${hours} hours ${minutes} minutes ${seconds} seconds`;
     api.sendMessage(`What's up🐼
 
-  🐼 Kshitiz sir your bot is running from
+  🕷️Kshitiz sensei your bot is running from
  
  
  ${uptimeString}.`, event.threadID);
