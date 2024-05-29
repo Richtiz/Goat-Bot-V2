@@ -38,7 +38,7 @@ module.exports = {
 
   langs: {
     en: {			help: 
-      `╭───⭓『 𝐈𝐓𝐀𝐂𝐇𝐈𓅂 』 
+      `╭───⭓『𝐒𝐮𝐧𝐠 𝐣𝐢𝐧𝐰𝐨𝐨𓅂』 
 │❏kuba  ❏gemini
 │❏gpt  ❏sdxl 
 │❏sdxl2  ❏imagine
